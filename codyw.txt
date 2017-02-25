@@ -1,1 +1,2 @@
 I GIT this.
+Zmiana na Master po zalozeniu brancha.
